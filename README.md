@@ -18,9 +18,9 @@ Be sure to create your project and push it to a repo in your **personal GitHub a
 
 ## Refrence the lessons from the Catcollector Walkthrough!
 
-- [Django Setup, Urls, Views](https://git.generalassemb.ly/seb-starfish/django-setup-urls-views)
-- [Django Models Serializers](https://git.generalassemb.ly/seb-starfish/django-models-serializers)
-- [Django One-to-Many ](https://git.generalassemb.ly/seb-starfish/django-one-to-many-models)
-- [Django Rep](https://git.generalassemb.ly/seb-starfish/django-rep)
-- [Django Many to Many](https://git.generalassemb.ly/seb-starfish/django-many-to-many-models)
-- [Django Auth](https://git.generalassemb.ly/seb-starfish/django-authentication)
+- [Django Setup, Urls, Views](https://github.com/jbourke16/django-setup-GA)
+- [Django Models Serializers](https://github.com/jbourke16/django-models-serializers-GA)
+- [Django One-to-Many ](https://github.com/jbourke16/django-one-to-many-GA)
+- [Django Rep](https://github.com/jbourke16/django-rep-GA)
+- [Django Many to Many](https://github.com/jbourke16/django-many-to-many-GA)
+- [Django Auth](https://github.com/jbourke16/django-auth-GA)
